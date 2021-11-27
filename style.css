@@ -1,7 +1,14 @@
 /* Aula 02: Para criar uma classe ---> .nome_da_classe {} 
    Para estilizar um id ---> #nome_id{}
+
+   Aula 03: cores, os padoes são rgb ou hexadecimal no body usei o hexd. para converter
+   de hexa para rgb pasta buscar no google
 */
 
 body{
-    background-color: red;
+    background-color:#dfdfdf;
+}
+
+p{
+    color:#222222;
 }
