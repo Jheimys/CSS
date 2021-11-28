@@ -5,17 +5,29 @@
    de hexa para rgb pasta buscar no google
 
    Aula 04: background 
+
+   Aula 05: w3c
+
+   Aula 06: Border 
 */
 
 body{
+    /*
     background-image: url(/imagem/background.jpg);
     background-repeat: no-repeat;
-    /*background-position: 100% 10%;----> empurra 100% da esquerda e 10% do topo*/
+    background-position: 100% 10%;----> empurra 100% da esquerda e 10% do topo
     background-position: center center; 
     background-size: cover;
-    /*background-color:#dfdfdf;*/
+    */
+    background-color:#dfdfdf;
 }
 
 p{
     color:#222222;
+}
+
+.foto-principal{
+    border:2px solid #FFFFFF;/* A ordem é importante: espessura, style, cor*/
+    border-radius: 50%;
+    width: 250px;
 }
