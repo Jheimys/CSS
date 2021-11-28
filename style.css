@@ -10,7 +10,9 @@
 
    Aula 06: Border 
 
-   Aula 07: margim 
+   Aula 07: margim ---> espaçamento externo
+
+   Aula 08: Padding ---> espaçamento interno
 */
 
 body{
@@ -32,6 +34,7 @@ p{
     border:2px solid #FFFFFF;/* A ordem é importante: espessura, style, cor*/
     border-radius: 50%;
     width: 250px;
+    height: 260px;
 
     /*
     margin- top:30 px;
@@ -41,6 +44,9 @@ p{
 
     */
 
-    margin: 30px 30px 30px 30px;
+    margin: 30px 30px 30px 30px; /* shorthand como todos os valores 
+    são iguais poderia colocar apenas um.*/
+
+    /*padding: 10px; espaçamento interno da foto*/
 }
 
