@@ -17,6 +17,8 @@
    Aula 09: box-shadow ---> sombra da caixa
 
    Aula 10: Ajustes de textos
+
+   Aula 11: Google Fonts
 */
 
 body{
@@ -28,7 +30,7 @@ body{
     background-size: cover;
     */
     background-color:#dfdfdf;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Raleway', sans-serif;
     color:#222222;
 }
 
@@ -59,6 +61,8 @@ body{
 h1{
     margin-bottom: 0;
     letter-spacing: -1px; /* espaçamento entre as letras*/ 
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 40px;
     
 }
 
