@@ -19,6 +19,8 @@
    Aula 10: Ajustes de textos
 
    Aula 11: Google Fonts
+
+   Aula 12: tag div
 */
 
 body{
@@ -32,6 +34,11 @@ body{
     background-color:#dfdfdf;
     font-family: 'Raleway', sans-serif;
     color:#222222;
+}
+
+.container{
+    margin: 0 auto;
+    width: 900px;
 }
 
 
